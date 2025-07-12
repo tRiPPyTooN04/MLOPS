@@ -1,0 +1,34 @@
+[2025-07-12 10:49:16,675 - INFO - main  - >>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-07-12 10:49:16,676 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 10:49:16,677 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 10:49:16,677 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 10:49:16,678 - INFO - common  - created directory at: artifacts]
+[2025-07-12 10:49:16,678 - INFO - common  - created directory at: artifacts/data_ingestion]
+[2025-07-12 10:49:17,684 - INFO - data_ingestion  - winequality-data.zip downloaded with headers:
+  Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9158:303B46:3D0CF:11E439:6871E46B
+Accept-Ranges: bytes
+Date: Sat, 12 Jul 2025 05:19:17 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10227-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1752297557.935862,VS0,VE231
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0eefe6be7b977c3ab486954d1fff08a9b608a9aa
+Expires: Sat, 12 Jul 2025 05:24:17 GMT
+Source-Age: 0
+
+]
+[2025-07-12 10:49:17,709 - INFO - main  - >>>>>>> stage Data Ingestion stage completed <<<<<<]
