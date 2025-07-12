@@ -32,3 +32,146 @@ Source-Age: 0
 
 ]
 [2025-07-12 10:49:17,709 - INFO - main  - >>>>>>> stage Data Ingestion stage completed <<<<<<]
+[2025-07-12 14:43:26,771 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 14:43:26,773 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 14:43:26,774 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 14:43:26,776 - INFO - common  - created directory at: artifacts]
+[2025-07-12 14:45:03,058 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 14:45:03,059 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 14:45:03,060 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 14:45:03,061 - INFO - common  - created directory at: artifacts]
+[2025-07-12 14:45:11,459 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 14:45:11,460 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 14:45:11,462 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 14:45:11,462 - INFO - common  - created directory at: artifacts]
+[2025-07-12 14:47:28,437 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 14:47:28,439 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 14:47:28,450 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 14:47:28,452 - INFO - common  - created directory at: artifacts]
+[2025-07-12 14:47:28,454 - INFO - common  - created directory at: artifacts/data_validation]
+[2025-07-12 14:48:56,575 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 14:48:56,577 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 14:48:56,579 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 14:48:56,580 - INFO - common  - created directory at: artifacts]
+[2025-07-12 14:48:56,581 - INFO - common  - created directory at: artifacts/data_validation]
+[2025-07-12 14:49:50,090 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 14:49:50,091 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 14:49:50,092 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 14:49:50,095 - INFO - common  - created directory at: artifacts]
+[2025-07-12 14:49:50,096 - INFO - common  - created directory at: artifacts/data_validation]
+[2025-07-12 14:53:28,687 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 14:53:28,689 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 14:53:28,691 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 14:53:28,693 - INFO - common  - created directory at: artifacts]
+[2025-07-12 14:53:28,693 - INFO - common  - created directory at: artifacts/data_validation]
+[2025-07-12 15:00:17,776 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 15:00:17,778 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 15:00:17,780 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 15:00:17,781 - INFO - common  - created directory at: artifacts]
+[2025-07-12 15:00:17,783 - INFO - common  - created directory at: artifacts/data_validation]
+[2025-07-12 15:01:44,045 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 15:01:44,047 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 15:01:44,050 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 15:01:44,051 - INFO - common  - created directory at: artifacts]
+[2025-07-12 15:01:44,052 - INFO - common  - created directory at: artifacts/data_validation]
+[2025-07-12 15:03:30,669 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 15:03:30,672 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 15:03:30,673 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 15:03:30,675 - INFO - common  - created directory at: artifacts]
+[2025-07-12 15:03:30,676 - INFO - common  - created directory at: artifacts/data_validation]
+[2025-07-12 15:05:26,914 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 15:05:26,915 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 15:05:26,916 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 15:05:26,918 - INFO - common  - created directory at: artifacts]
+[2025-07-12 15:05:26,919 - INFO - common  - created directory at: artifacts/data_validation]
+[2025-07-12 15:35:14,007 - INFO - main  - >>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-07-12 15:35:14,007 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 15:35:14,007 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 15:35:14,013 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 15:35:14,013 - INFO - common  - created directory at: artifacts]
+[2025-07-12 15:35:14,014 - INFO - common  - created directory at: artifacts/data_ingestion]
+[2025-07-12 15:35:14,014 - INFO - data_ingestion  - file already exists]
+[2025-07-12 15:35:14,028 - INFO - main  - >>>>>>> stage Data Ingestion stage completed <<<<<<]
+[2025-07-12 15:54:58,913 - INFO - main  - >>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-07-12 15:54:58,913 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 15:54:58,913 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 15:54:58,929 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 15:54:58,930 - INFO - common  - created directory at: artifacts]
+[2025-07-12 15:54:58,930 - INFO - common  - created directory at: artifacts/data_ingestion]
+[2025-07-12 15:54:58,930 - INFO - data_ingestion  - file already exists]
+[2025-07-12 15:54:58,930 - INFO - main  - >>>>>>> stage Data Ingestion stage completed <<<<<<]
+[2025-07-12 15:54:58,930 - INFO - main  - >>>>>>> stage Data Validation stage started <<<<<<]
+[2025-07-12 15:54:58,930 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 15:54:58,934 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 15:54:58,935 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 15:54:58,935 - INFO - common  - created directory at: artifacts]
+[2025-07-12 15:54:58,935 - ERROR - main  - 'ConfigurationManager' object has no attribute 'get_data_validation_config']
+Traceback (most recent call last):
+  File "C:\Users\gerar\OneDrive\Desktop\projects\MLops\MLOPS\main.py", line 25, in <module>
+    data_validation.initiate_data_validation()
+  File "C:\Users\gerar\OneDrive\Desktop\projects\MLops\MLOPS\src\ML_ops_end_end_\pipeline\data_validation_pipeline.py", line 14, in initiate_data_validation
+    data_validation_config = config.get_data_validation_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_validation_config'. Did you mean: 'get_data_ingestion_config'?
+[2025-07-12 16:06:01,584 - INFO - main  - >>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-07-12 16:06:01,592 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 16:06:01,595 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 16:06:01,597 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 16:06:01,597 - INFO - common  - created directory at: artifacts]
+[2025-07-12 16:06:01,597 - INFO - common  - created directory at: artifacts/data_ingestion]
+[2025-07-12 16:06:02,556 - INFO - data_ingestion  - artifacts/data_ingestion/winequality-data.zip downloaded with headers:
+  Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B580:CDF5C:98787:1FE4A4:68723A8B
+Accept-Ranges: bytes
+Date: Sat, 12 Jul 2025 10:36:02 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10228-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1752316562.225884,VS0,VE249
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: edfecdba95d61fabfb17ede74426fc55d52bcda4
+Expires: Sat, 12 Jul 2025 10:41:02 GMT
+Source-Age: 0
+
+]
+[2025-07-12 16:06:02,565 - INFO - main  - >>>>>>> stage Data Ingestion stage completed <<<<<<]
+[2025-07-12 16:06:02,565 - INFO - main  - >>>>>>> stage Data Validation stage started <<<<<<]
+[2025-07-12 16:06:02,570 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 16:06:02,570 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 16:06:02,571 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 16:06:02,573 - INFO - common  - created directory at: artifacts]
+[2025-07-12 16:06:02,573 - ERROR - main  - 'ConfigurationManager' object has no attribute 'get_data_validation_config']
+Traceback (most recent call last):
+  File "C:\Users\gerar\OneDrive\Desktop\projects\MLops\MLOPS\main.py", line 25, in <module>
+    data_validation.initiate_data_validation()
+  File "C:\Users\gerar\OneDrive\Desktop\projects\MLops\MLOPS\src\ML_ops_end_end_\pipeline\data_validation_pipeline.py", line 14, in initiate_data_validation
+    data_validation_config = config.get_data_validation_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_validation_config'. Did you mean: 'get_data_ingestion_config'?
+[2025-07-12 16:18:39,953 - INFO - main  - >>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-07-12 16:18:39,956 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 16:18:39,956 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 16:18:39,958 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 16:18:39,958 - INFO - common  - created directory at: artifacts]
+[2025-07-12 16:18:39,958 - INFO - common  - created directory at: artifacts/data_ingestion]
+[2025-07-12 16:18:39,958 - INFO - data_ingestion  - file already exists]
+[2025-07-12 16:18:39,962 - INFO - main  - >>>>>>> stage Data Ingestion stage completed <<<<<<]
+[2025-07-12 16:18:39,962 - INFO - main  - >>>>>>> stage Data Validation stage started <<<<<<]
+[2025-07-12 16:18:39,963 - INFO - common  - yaml file: config\config.yaml loaded successfully]
+[2025-07-12 16:18:39,964 - INFO - common  - yaml file: params.yaml loaded successfully]
+[2025-07-12 16:18:39,965 - INFO - common  - yaml file: schema.yaml loaded successfully]
+[2025-07-12 16:18:39,965 - INFO - common  - created directory at: artifacts]
+[2025-07-12 16:18:39,967 - INFO - common  - created directory at: artifacts/data_validation]
+[2025-07-12 16:18:39,994 - INFO - main  - >>>>>>> stage Data Validation stage completed <<<<<<]
